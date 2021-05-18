@@ -1,1 +1,27 @@
-
+name: Garuda Linux
+os-type: GNU/Linux
+homepage: https://garudalinux.org/
+based-on:
+  - Arch
+origin:
+  - India
+  - Germany
+desktop:
+  - KDE Plasma
+  - xfce
+  - GNOME
+  - LXQT-kwin
+  - Wayfire
+  - Qtile
+  - BSPWM
+  - i3wm
+  - Sway
+architecture:
+  - x86_64
+category:
+  - desktop
+description: 
+  - a arch based distro focused on
+  - a good user experiance
+images:
+  - https://gitlab.com/garuda-linux/themes-and-settings/artwork/garuda-icons/-/raw/master/usr/share/icons/garuda/garuda-purple.png
