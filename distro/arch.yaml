@@ -1,4 +1,4 @@
-name: arch linux
+name: Arch Linux
 os-type: GNU/Linux
 homepage: https://archlinux.org/
 based-on:
