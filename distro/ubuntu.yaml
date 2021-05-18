@@ -1,1 +1,23 @@
-
+name: Ubuntu
+os-type: GNU/Linux
+homepage: https://ubuntu.com/
+based-on:
+  - Debian
+origin:
+  - UK
+desktop:
+  - GNOME
+architecture:
+  - x86_64
+  - aarch64
+  - ARM v7
+  - POWER8
+category:
+  - embeded
+  - server
+  - desktop
+description: 
+  - userfriendly distrobution released
+  - by canonical
+images:
+  - https://assets.ubuntu.com/v1/8dd99b80-ubuntu-logo14.png
