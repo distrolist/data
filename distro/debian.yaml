@@ -1,0 +1,28 @@
+name: Debian
+os-type: GNU/Linux
+homepage: https://www.debian.org
+based-on:
+  - debian
+origin:
+  - USA
+desktop:
+  - none
+architecture:
+  - x86_64
+  - aarch64
+  - Armel
+  - armhf
+  - i386
+  - mipsel
+  - mipsel64el
+  - ppc64el
+  - s390x
+category:
+  - embeded
+  - server
+  - desktop
+description: 
+  - a stable distrobution that about 50% 
+  - of GNU/Linux distrobutions are based on
+images:
+  - https://www.debian.org/Pics/debian-logo-1024x576.png
