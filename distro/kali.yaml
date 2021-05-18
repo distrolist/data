@@ -1,1 +1,23 @@
-
+name: Kali Linux
+os-type: GNU/Linux
+homepage: https://www.kali.org/
+based-on:
+  - Debian Testing
+origin:
+  - USA
+desktop:
+  - XFCE
+  - GNOME Shell
+  - KDE Plasma
+architecture:
+  - x86_64
+  - aarch64
+category:
+  - embeded
+  - desktop
+description:
+  - a distribution focused on cyber security
+  - "the most advanced penetration testeng distribution"
+images:
+  - https://www.kali.org/docs/policy/trademark/dragon-tm.png
+  - https://www.kali.org/docs/policy/trademark/kali-tm.png
