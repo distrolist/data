@@ -13,7 +13,7 @@ desktop:
   - mate
   - KDE Plasma
   - xfce
-  - none
+  - none/custom
 architecture:
   - x86_64
 category:
