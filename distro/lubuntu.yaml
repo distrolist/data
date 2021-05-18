@@ -1,1 +1,19 @@
-
+name: Lubuntu
+os-type: GNU/Linux
+homepage: https://lubuntu.net/
+based-on:
+  - Ubuntu
+origin:
+  - Germany
+desktop:
+  - LXDE
+  - LXQT
+architecture:
+  - x86_64
+category:
+  - desktop
+description: 
+  - a lightweight version of Ubuntu with
+  - very low hardware requirements
+images:
+  - https://lubuntu.net/wp-content/uploads/2017/12/logo.png
