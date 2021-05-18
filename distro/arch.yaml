@@ -5,6 +5,7 @@ based-on:
 origin:
   - Canada
 desktop:
+  - none/custom
 architecture:
   - x86_64
 category:
