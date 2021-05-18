@@ -1,0 +1,19 @@
+name: Raspberry Pi OS # formerly known as raspbian
+os-type: GNU/Linux
+homepage: https://www.raspbian.org/
+based-on:
+  - Debian
+origin:
+desktop:
+  - LXDE
+architecture:
+  - ARM
+  - i386
+category:
+  - server
+  - desktop
+description: 
+  - lightweight distribution
+  - for the raspberry pi
+images:
+  - https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png
