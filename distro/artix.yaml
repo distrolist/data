@@ -25,4 +25,4 @@ description:
   - as initsystem
   - "because PID1 must be simple, secure and stable"
 images:
-  - https://www.debian.org/Pics/debian-logo-1024x576.png
+  - https://gitea.artixlinux.org/artix/artwork/raw/branch/master/logo/Horizontal_ColorFull.svg
