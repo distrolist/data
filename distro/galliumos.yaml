@@ -1,1 +1,17 @@
-
+name: GalliumOS
+os-type: GNU/Linux
+homepage: https://galliumos.org/
+based-on:
+  - Xubuntu
+origin:
+desktop:
+  - xfce
+architecture:
+  - x86_64
+category:
+  - desktop
+description: 
+  - a fast lightweight distro
+  - for ChromeOS devices
+images:
+  - https://upload.wikimedia.org/wikipedia/en/c/c0/Logo_for_GalliumOS.png
