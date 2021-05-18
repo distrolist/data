@@ -1,1 +1,28 @@
-
+name: Artix Linux
+os-type: GNU/Linux
+homepage: https://artixlinux.org/
+based-on:
+  - Arch Linux
+  - Arch OpenRC
+  - Manjaro OpenRC
+origin:
+desktop:
+  - cinnamon
+  - LXDE
+  - LXQT
+  - mate
+  - KDE Plasma
+  - xfce
+  - none
+architecture:
+  - x86_64
+category:
+  - desktop
+  - server
+description: 
+  - rolling distrobution based on arch that uses
+  - OpenRC, runnit or s6 (chosen by user preference)
+  - as initsystem
+  - "because PID1 must be simple, secure and stable"
+images:
+  - https://www.debian.org/Pics/debian-logo-1024x576.png
