@@ -1,12 +1,27 @@
 name: Ubuntu
 os-type: GNU/Linux
 homepage: https://ubuntu.com/
+license:
+  - Free software
+  - GPL
+  - https://ubuntu.com/licensing
+release: 20.08.2004
 based-on:
   - Debian
 origin:
   - UK
+founder:
+  - Canonical
 desktop:
   - GNOME
+package-manager:
+  - GNOME Software
+  - apt
+  - dpkg
+  - Snappy
+  - flatpak
+service-manager:
+  - systemd
 architecture:
   - x86_64
   - aarch64
@@ -21,3 +36,17 @@ description:
   - by canonical
 images:
   - https://assets.ubuntu.com/v1/8dd99b80-ubuntu-logo14.png
+
+# sources
+# os-type: https://de.wikipedia.org/wiki/Ubuntu
+# license:
+#   https://de.wikipedia.org/wiki/Ubuntu
+#   https://ubuntu.com/licensing
+# release: https://en.wikipedia.org/wiki/Ubuntu
+# based-on: https://de.wikipedia.org/wiki/Ubuntu
+# origin: https://en.wikipedia.org/wiki/Canonical_(company)
+# founder: https://en.wikipedia.org/wiki/Canonical_(company)
+# desktop: https://en.wikipedia.org/wiki/Ubuntu
+# package-manager: https://en.wikipedia.org/wiki/Ubuntu
+# service-manager: https://wiki.ubuntuusers.de/Dienste/
+# architecture: https://en.wikipedia.org/wiki/Ubuntu
