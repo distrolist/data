@@ -1,11 +1,17 @@
 name: Artix Linux
 os-type: GNU/Linux
 homepage: https://artixlinux.org/
+license:
+  - BSD-2-Clause
+  - GPLv2
+  - GPLv3
+release: 2017
 based-on:
   - Arch Linux
   - Arch OpenRC
   - Manjaro OpenRC
 origin:
+founder:
 desktop:
   - cinnamon
   - LXDE
@@ -14,6 +20,12 @@ desktop:
   - KDE Plasma
   - xfce
   - none/custom
+package-manager:
+  - pacman
+sarvice-manager:
+  - OpenRC
+  - runnit
+  - s6
 architecture:
   - x86_64
 category:
