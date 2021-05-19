@@ -1,13 +1,22 @@
 name: Lubuntu
 os-type: GNU/Linux
 homepage: https://lubuntu.net/
+license: 
+  - GLP
+release: 13.08.2011
 based-on:
   - Ubuntu
 origin:
   - Germany
+founder:
+  - Mario Behling
 desktop:
-  - LXDE
   - LXQT
+package-manager:
+  - Synaptic # im not 100% sure
+  - apt
+service-manager:
+  - systemd
 architecture:
   - x86_64
 category:
@@ -17,3 +26,14 @@ description:
   - very low hardware requirements
 images:
   - https://lubuntu.net/wp-content/uploads/2017/12/logo.png
+
+# sources
+# os-type: https://de.wikipedia.org/wiki/Lubuntu
+# license: https://en.wikipedia.org/wiki/Lubuntu
+# release: https://en.wikipedia.org/wiki/Lubuntu
+# based-on: https://de.wikipedia.org/wiki/Lubuntu
+# origin: https://twitter.com/mariobehling
+# founder: https://lubuntu.net/about/
+# desktop: https://en.wikipedia.org/wiki/Lubuntu
+# package-manager: https://en.wikipedia.org/wiki/Lubuntu
+# architecture: https://en.wikipedia.org/wiki/Lubuntu
