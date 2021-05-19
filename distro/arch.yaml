@@ -1,7 +1,7 @@
 name: Arch Linux
 os-type: GNU/Linux
 homepage: https://archlinux.org/
-license: GLP
+license: GPL
 release: 11.03.2002 # european time format
 based-on:
 origin:
