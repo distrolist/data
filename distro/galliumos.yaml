@@ -2,8 +2,8 @@ name: GalliumOS
 os-type: GNU/Linux
 homepage: https://galliumos.org/
 license:
-  - GLPv2
-  - GLPv3
+  - GPLv2
+  - GPLv3
 release: 10.11.2015
 based-on:
   - Xubuntu
