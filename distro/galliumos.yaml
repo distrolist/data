@@ -1,11 +1,20 @@
 name: GalliumOS
 os-type: GNU/Linux
 homepage: https://galliumos.org/
+license:
+  - GLPv2
+  - GLPv3
+release: 10.11.2015
 based-on:
   - Xubuntu
-origin:
+origin: # havent found anything yet
+founder:
 desktop:
   - xfce
+package-manager:
+  - apt
+service-manager:
+  - systemd # i guess
 architecture:
   - x86_64
 category:
