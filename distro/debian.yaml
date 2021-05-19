@@ -1,12 +1,28 @@
 name: Debian
 os-type: GNU/Linux
 homepage: https://www.debian.org
+license:
+  - DFSG-compatible # https://en.wikipedia.org/wiki/Debian_Free_Software_Guidelines
+release: 1993
 based-on:
-  - debian
 origin:
   - USA
+founder:
+  - Ian Murdock
 desktop:
+  - GNOME
+  - XFCE
+  - MATE
+  - KDE Plasma
+  - LXQt
+  - LXDE
+  - Cinnamon
   - none/custom
+package-manager:
+  - apt
+  - dpkg
+service-manager:
+  - systemd
 architecture:
   - x86_64
   - aarch64
