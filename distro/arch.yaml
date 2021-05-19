@@ -1,13 +1,21 @@
 name: Arch Linux
 os-type: GNU/Linux
 homepage: https://archlinux.org/
+license: GLP
+release: 11.03.2002 # european time format
 based-on:
 origin:
   - Canada
+founder:
+  - Judd Vinet
 desktop:
   - none/custom
+package-manager:
+  - pacman # include managers for the aur like yay?
+service-manager:
+  - systemd
 architecture:
-  - x86_64
+  - x86_64 # include unofficial supports?
 category:
   - desktop
   - server
