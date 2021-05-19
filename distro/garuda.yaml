@@ -2,7 +2,7 @@ name: Garuda Linux
 os-type: GNU/Linux
 homepage: https://garudalinux.org/
 license: 
-  - GLPv3
+  - GPLv3
 release:
 based-on:
   - Arch Linux
