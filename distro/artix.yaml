@@ -22,7 +22,7 @@ desktop:
   - none/custom
 package-manager:
   - pacman
-sarvice-manager:
+service-manager:
   - OpenRC
   - runnit
   - s6
@@ -38,3 +38,13 @@ description:
   - "because PID1 must be simple, secure and stable"
 images:
   - https://gitea.artixlinux.org/artix/artwork/raw/branch/master/logo/Horizontal_ColorFull.svg
+
+# sources
+# os-type: https://artixlinux.org/ (based on arch -> arch based on GNU/Linux)
+# license: https://github.com/artix-linux
+# release: https://en.wikipedia.org/wiki/Artix_Linux
+# based-on: https://artixlinux.org/
+# desktop: https://artixlinux.org/download.php
+# package-manager: https://en.wikipedia.org/wiki/Artix_Linux
+# service-manager: https://artixlinux.org/
+# architecture: https://en.wikipedia.org/wiki/Artix_Linux (not arm -> ARMtix)
