@@ -2,7 +2,7 @@ name: example
 os-type: GNU/Linux
 homepage: https://example.org
 logo: debian-logo.svg
-description: debian.rst
+description: example.rst
 license:
   - GLPv2
   - BSD-2-Clause
