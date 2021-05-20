@@ -1,7 +1,7 @@
 name: example
 os-type: GNU/Linux
 homepage: https://example.org
-logo: debian-logo-1024x576.png
+logo: debian-logo.svg
 description: debian.rst
 license:
   - GLPv2
