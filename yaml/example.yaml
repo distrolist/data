@@ -1,8 +1,8 @@
 name: example
 os-type: GNU/Linux
 homepage: https://example.org
-logo: https://www.debian.org/Pics/debian-logo-1024x576.png
-description: https://example.org/distroinfo/debian.rst
+logo: debian-logo-1024x576.png
+description: debian.rst
 license:
   - GLPv2
   - BSD-2-Clause
@@ -29,8 +29,8 @@ category:
   - server
   - desktop
 screenshot:
-  - https://example.org/image1.png
-  - https://example.org/image2.png
+  - image1.png
+  - image2.png
 # sources
 # os-type: https://en.wikipedia.org/imaginary-article
 # license: https://www.not-a-website.xyz
