@@ -2,6 +2,7 @@ name: Kali Linux
 os-type: GNU/Linux
 homepage: https://www.kali.org/
 logo: kali-logo.svg
+description: kali.rst
 license: GPLv3
 release: 13.03.2013
 based-on:
@@ -27,9 +28,6 @@ architecture:
 category:
   - embeded
   - desktop
-description:
-  - a distribution focused on cyber security
-  - "the most advanced penetration testeng distribution"
 
 # sources
 # os-type: https://www.kali.org/docs/policy/kali-linux-relationship-with-debian/
