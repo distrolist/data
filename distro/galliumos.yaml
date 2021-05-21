@@ -13,8 +13,9 @@ desktop:
   - xfce
 package-manager:
   - apt
+  - dpkg
 service-manager:
-  - systemd # i guess
+  - systemd # no source yet
 architecture:
   - x86_64
 category:
@@ -24,3 +25,12 @@ description:
   - for ChromeOS devices
 images:
   - https://upload.wikimedia.org/wikipedia/en/c/c0/Logo_for_GalliumOS.png
+
+# sources
+# os-type: https://de.wikipedia.org/wiki/Xubuntu
+# license: https://github.com/GalliumOS
+# release: https://en.wikipedia.org/wiki/GalliumOS
+# based-on: https://galliumos.org/
+# desktop: https://en.wikipedia.org/wiki/GalliumOS
+# package-manager: https://en.wikipedia.org/wiki/GalliumOS
+# architecture: https://en.wikipedia.org/wiki/GalliumOS
