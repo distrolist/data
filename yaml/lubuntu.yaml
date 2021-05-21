@@ -1,8 +1,8 @@
 name: Lubuntu
 os-type: GNU/Linux
 homepage: https://lubuntu.net/
-description: lubuntu.rst
 logo: lubuntu-logo.svg
+description: lubuntu.rst
 license: 
   - GLP
 release: 13.08.2011
