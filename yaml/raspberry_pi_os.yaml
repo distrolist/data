@@ -26,7 +26,7 @@ description:
   - lightweight distribution
   - for the raspberry pi
 images:
-  - https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png
+  - https://upload.wikimedia.org/wikipedia/de/c/cb/Raspberry_Pi_Logo.svg
 
 # sources
 # os-type: https://en.wikipedia.org/wiki/Raspberry_Pi_OS (debian based = GNU/Linux)
