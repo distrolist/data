@@ -1,1 +1,3 @@
-GalliumOS\n#######\n
+GalliumOS
+#######
+a fast lightweight distro for ChromeOS devices
