@@ -30,8 +30,7 @@ description:
   - a distribution focused on cyber security
   - "the most advanced penetration testeng distribution"
 images:
-  - https://www.kali.org/docs/policy/trademark/dragon-tm.png
-  - https://www.kali.org/docs/policy/trademark/kali-tm.png
+  - https://gitlab.com/kalilinux/documentation/graphic-resources/-/blob/master/kali-dragon-icon.svg
 
 # sources
 # os-type: https://www.kali.org/docs/policy/kali-linux-relationship-with-debian/
