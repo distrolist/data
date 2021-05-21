@@ -1,6 +1,7 @@
 name: Artix Linux
 os-type: GNU/Linux
 homepage: https://artixlinux.org/
+logo: artix-logo.svg
 license:
   - BSD-2-Clause
   - GPLv2
