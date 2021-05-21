@@ -40,6 +40,7 @@ description:
 
 # sources
 # os-type: https://artixlinux.org/ (based on arch -> arch based on GNU/Linux)
+# logo: https://gitea.artixlinux.org/artix/artwork/raw/branch/master/logo/Horizontal_ColorFull.svg
 # license: https://github.com/artix-linux
 # release: https://en.wikipedia.org/wiki/Artix_Linux
 # based-on: https://artixlinux.org/
