@@ -37,8 +37,6 @@ description:
   - OpenRC, runnit or s6 (chosen by user preference)
   - as initsystem
   - "because PID1 must be simple, secure and stable"
-images:
-  - https://gitea.artixlinux.org/artix/artwork/raw/branch/master/logo/Horizontal_ColorFull.svg
 
 # sources
 # os-type: https://artixlinux.org/ (based on arch -> arch based on GNU/Linux)
