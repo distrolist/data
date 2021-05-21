@@ -1,6 +1,7 @@
 name: Raspberry Pi OS # formerly known as raspbian
 os-type: GNU/Linux
 homepage: https://www.raspbian.org/
+logo: pi-logo.svg
 license: GPL
 release: 2015
 based-on:
@@ -25,11 +26,10 @@ category:
 description: 
   - lightweight distribution
   - for the raspberry pi
-images:
-  - https://upload.wikimedia.org/wikipedia/de/c/cb/Raspberry_Pi_Logo.svg
 
 # sources
-# os-type: https://en.wikipedia.org/wiki/Raspberry_Pi_OS (debian based = GNU/Linux)
+# os-type: https://de.wikipedia.org/wiki/Debian
+# logo: https://upload.wikimedia.org/wikipedia/de/c/cb/Raspberry_Pi_Logo.svg
 # license: https://en.wikipedia.org/wiki/Raspberry_Pi_OS
 # release: https://en.wikipedia.org/wiki/Raspberry_Pi_OS
 # based-on: https://en.wikipedia.org/wiki/Raspberry_Pi_OS
