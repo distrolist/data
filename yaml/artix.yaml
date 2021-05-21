@@ -2,6 +2,7 @@ name: Artix Linux
 os-type: GNU/Linux
 homepage: https://artixlinux.org/
 logo: artix-logo.svg
+description: artix.rst
 license:
   - BSD-2-Clause
   - GPLv2
@@ -32,11 +33,7 @@ architecture:
 category:
   - desktop
   - server
-description: 
-  - rolling distrobution based on arch that uses
-  - OpenRC, runnit or s6 (chosen by user preference)
-  - as initsystem
-  - "because PID1 must be simple, secure and stable"
+ 
 
 # sources
 # os-type: https://artixlinux.org/ (based on arch -> arch based on GNU/Linux)
