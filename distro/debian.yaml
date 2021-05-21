@@ -2,9 +2,10 @@ name: Debian
 os-type: GNU/Linux
 homepage: https://www.debian.org
 license:
-  - DFSG-compatible # https://en.wikipedia.org/wiki/Debian_Free_Software_Guidelines
+  - DFSG-compatible
 release: 1993
 based-on:
+  - GNU/Linux
 origin:
   - USA
 founder:
@@ -29,8 +30,9 @@ architecture:
   - Armel
   - armhf
   - i386
+  - mips
   - mipsel
-  - mipsel64el
+  - mips64el
   - ppc64el
   - s390x
 category:
@@ -42,3 +44,15 @@ description:
   - of GNU/Linux distrobutions are based on
 images:
   - https://www.debian.org/Pics/debian-logo-1024x576.png
+
+# sources
+# os-type: https://de.wikipedia.org/wiki/Debian
+# license: https://en.wikipedia.org/wiki/Debian_Free_Software_Guidelines
+# release: https://en.wikipedia.org/wiki/Debian
+# based-on: https://de.wikipedia.org/wiki/Debian
+# origin: https://en.wikipedia.org/wiki/Ian_Murdock
+# founder: https://en.wikipedia.org/wiki/Debian
+# desktop: https://en.wikipedia.org/wiki/Debian
+# package-manager: https://en.wikipedia.org/wiki/Debian
+# service-manager: https://en.wikipedia.org/wiki/Debian
+# architecture: https://en.wikipedia.org/wiki/Debian
