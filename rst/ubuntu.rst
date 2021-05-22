@@ -1,1 +1,3 @@
-Ubuntu\n#######\n
+Ubuntu
+#######
+userfriendly distrobution released by canonical
