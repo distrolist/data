@@ -1,1 +1,3 @@
-Raspberry Pi OS\n#######\n
+Raspberry Pi OS
+#######
+lightweight distribution for the raspberry pi
