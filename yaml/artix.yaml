@@ -1,0 +1,46 @@
+name: Artix Linux
+os-type: GNU/Linux
+homepage: https://artixlinux.org/
+logo: artix-logo.svg
+description: artix.rst
+license:
+  - BSD-2-Clause
+  - GPLv2
+  - GPLv3
+release: 2017
+based-on:
+  - Arch Linux
+  - Arch OpenRC
+  - Manjaro OpenRC
+origin:
+founder:
+desktop:
+  - cinnamon
+  - LXDE
+  - LXQT
+  - mate
+  - KDE Plasma
+  - xfce
+  - none/custom
+package-manager:
+  - pacman
+service-manager:
+  - OpenRC
+  - runnit
+  - s6
+architecture:
+  - x86_64
+category:
+  - desktop
+  - server
+ 
+# sources
+# os-type: https://artixlinux.org/ (based on arch -> arch based on GNU/Linux)
+# logo: https://gitea.artixlinux.org/artix/artwork/raw/branch/master/logo/Horizontal_ColorFull.svg
+# license: https://github.com/artix-linux
+# release: https://en.wikipedia.org/wiki/Artix_Linux
+# based-on: https://artixlinux.org/
+# desktop: https://artixlinux.org/download.php
+# package-manager: https://en.wikipedia.org/wiki/Artix_Linux
+# service-manager: https://artixlinux.org/
+# architecture: https://en.wikipedia.org/wiki/Artix_Linux (not arm -> ARMtix)

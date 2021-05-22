@@ -1,0 +1,38 @@
+name: Raspberry Pi OS # formerly known as raspbian
+os-type: GNU/Linux
+homepage: https://www.raspbian.org/
+logo: pi-logo.svg
+description: pi.rst
+license: GPL
+release: 2015
+based-on:
+  - Debian
+origin:
+  - GB
+founder:
+  - Raspberry Pi Foundation
+desktop:
+  - LXDE
+package-manager:
+  - apt
+  - dpkg
+service-manager:
+  - systemd
+architecture:
+  - ARM
+  - i386
+category:
+  - server
+  - desktop
+
+# sources
+# os-type: https://de.wikipedia.org/wiki/Debian
+# logo: https://upload.wikimedia.org/wikipedia/de/c/cb/Raspberry_Pi_Logo.svg
+# license: https://en.wikipedia.org/wiki/Raspberry_Pi_OS
+# release: https://en.wikipedia.org/wiki/Raspberry_Pi_OS
+# based-on: https://en.wikipedia.org/wiki/Raspberry_Pi_OS
+# origin: https://en.wikipedia.org/wiki/Raspberry_Pi_Foundation
+# founder: https://en.wikipedia.org/wiki/Raspberry_Pi_OS
+# package-manager: https://en.wikipedia.org/wiki/Raspberry_Pi_OS
+# service-manager: https://www.raspberrypi.org/documentation/linux/usage/systemd.md
+# architecture: https://en.wikipedia.org/wiki/Raspberry_Pi_OS

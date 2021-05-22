@@ -1,0 +1,34 @@
+name: GalliumOS
+os-type: GNU/Linux
+homepage: https://galliumos.org/
+logo: galliumos-logo.svg
+description: galliumos.rst
+license:
+  - GPLv2
+  - GPLv3
+release: 10.11.2015
+based-on:
+  - Xubuntu
+origin: # havent found anything yet
+founder:
+desktop:
+  - xfce
+package-manager:
+  - apt
+  - dpkg
+service-manager:
+  - systemd # no source yet
+architecture:
+  - x86_64
+category:
+  - desktop
+
+# sources
+# os-type: https://de.wikipedia.org/wiki/Xubuntu
+# logo: https://worldvectorlogo.com/de/download/galliumos.svg
+# license: https://github.com/GalliumOS
+# release: https://en.wikipedia.org/wiki/GalliumOS
+# based-on: https://galliumos.org/
+# desktop: https://en.wikipedia.org/wiki/GalliumOS
+# package-manager: https://en.wikipedia.org/wiki/GalliumOS
+# architecture: https://en.wikipedia.org/wiki/GalliumOS

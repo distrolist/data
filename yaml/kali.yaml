@@ -1,0 +1,43 @@
+name: Kali Linux
+os-type: GNU/Linux
+homepage: https://www.kali.org/
+logo: kali-logo.svg
+description: kali.rst
+license: GPLv3
+release: 13.03.2013
+based-on:
+  - Debian Testing
+origin:
+  - USA
+founder:
+  - Offensive Security
+desktop:
+  - XFCE
+  - GNOME Shell
+  - KDE Plasma
+package-manager:
+  - apt
+  - dpkg
+service-manager:
+  - systemd
+architecture:
+  - x86_64
+  - x86
+  - armel
+  - armhf
+category:
+  - embeded
+  - desktop
+
+# sources
+# os-type: https://www.kali.org/docs/policy/kali-linux-relationship-with-debian/
+# logo: https://gitlab.com/kalilinux/documentation/graphic-resources/-/blob/master/kali-dragon-icon.svg
+# license: https://en.wikipedia.org/wiki/Kali_Linux
+# release: https://en.wikipedia.org/wiki/Kali_Linux
+# based-on: https://www.kali.org/docs/policy/kali-linux-relationship-with-debian/
+# origin: https://en.wikipedia.org/wiki/Offensive_Security
+# founder: https://en.wikipedia.org/wiki/Offensive_Security
+# desktop: https://de.wikipedia.org/wiki/Kali_Linux
+# package-manager: https://en.wikipedia.org/wiki/Kali_Linux
+# service-manager: https://kali.training/topic/managing-services/
+# architecture: https://en.wikipedia.org/wiki/Kali_Linux
