@@ -1,0 +1,59 @@
+name: OpenSUSE
+os-type: GNU/Linux
+homepage: https://www.opensuse.org/
+logo: opensuse-logo.svg
+description: opensuse.rst
+license:
+  - GPLv2
+  - GPLv3
+release: 2005
+based-on: 
+  - S.u.S.E. Linux
+origin: # idk caus see founder
+founder: # comunity based?
+desktop: # manually set at install time
+  - GNOME 3
+  - Xfce
+  - KDE
+  - Plasma 5
+  - Cinnamon
+  - MATE
+  - Enlightenment
+  - LXDE
+  - LXQt
+package-manager:
+  - ZYpp
+  - YaST
+  - RPM
+service-manager:
+  - systemd
+architecture:
+  - x86-64
+  - aarch64
+  - armv6hl
+  - armv7hl
+  - S390
+  - RISCV
+  - PPC64
+  - PPC64le
+category:
+  - desktop
+  - server
+  - workstation
+  - development
+
+# sources
+# os-type: https://de.wikipedia.org/wiki/OpenSUSE
+# logo: https://raw.githubusercontent.com/openSUSE/artwork/master/logos/official/geeko-color.svg 
+# license:
+#   - https://github.com/openSUSE
+#   - https://en.wikipedia.org/wiki/OpenSUSE
+# release: https://en.wikipedia.org/wiki/OpenSUSE
+# based-on: https://de.wikipedia.org/wiki/OpenSUSE
+# origin: 
+# founder:
+# desktop: https://en.wikipedia.org/wiki/OpenSUSE#History_of_the_openSUSE_Project
+# package-manager: https://en.wikipedia.org/wiki/OpenSUSE#History_of_the_openSUSE_Project
+# service-manager: https://en.opensuse.org/Systemd
+# architecture: https://en.wikipedia.org/wiki/OpenSUSE#History_of_the_openSUSE_Project
+# category: https://en.wikipedia.org/wiki/OpenSUSE#History_of_the_openSUSE_Project
