@@ -1,8 +1,8 @@
 name: Linux Mint
 os-type: GNU/Linux
 homepage: https://linuxmint.com/
-logo: mint-logo.svg # gotta add
-description: mint.rst # gotta add
+logo: mint-logo.svg 
+description: mint.rst 
 license:
   - Free Software
   - GPL
