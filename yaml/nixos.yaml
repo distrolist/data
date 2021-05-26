@@ -1,0 +1,52 @@
+name: NixOS
+os-type: GNU/Linux
+homepage: https://nixos.org/
+logo: nixos-logo.svg
+description: nixos.rst
+license:
+  - MIT
+release: 2003
+based-on:
+  - GNU/Linux
+origin:
+  - Netherlands
+founder:
+  - Eelco Dolstra
+desktop:
+  - GNOME
+  - XFCE
+  - MATE
+  - KDE Plasma
+  - LXQt
+  - LXDE
+  - Cinnamon
+  - Pantheon
+  - none/custom
+package-manager:
+  - nix
+service-manager:
+  - systemd
+architecture:
+  - x86_64
+  - aarch64
+  - armhf
+  - i386
+category:
+  - embedded
+  - server
+  - desktop
+
+# sources
+# os-type: https://en.wikipedia.org/wiki/NixOS
+# logo: https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nix-snowflake.svg
+# license: https://raw.githubusercontent.com/NixOS/nixpkgs/master/COPYING
+# release: https://en.wikipedia.org/wiki/NixOS
+# based-on: https://en.wikipedia.org/wiki/NixOS
+# origin: https://en.wikipedia.org/wiki/NixOS
+# founder: https://en.wikipedia.org/wiki/NixOS
+# desktop: https://github.com/NixOS/nixpkgs/tree/master/pkgs/desktops
+# package-manager: https://en.wikipedia.org/wiki/NixOS
+# service-manager: https://en.wikipedia.org/wiki/NixOS
+# architecture: https://en.wikipedia.org/wiki/NixOS
+
+
